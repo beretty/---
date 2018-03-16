@@ -7,4 +7,4 @@ tags: [random, jekyll]
 redirect_from:
   - /2013/04/22/
 ---
-这是zyf的博客
+由于Gay神的帮助，我~成功~瞎建了一个blog
