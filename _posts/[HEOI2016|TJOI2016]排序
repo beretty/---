@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Hello World!"
-description: "The first 'Hello world' post for Simple Texture theme."
+title: "[HEOI2016/TJOI2016]排序"
+description: "The first '[HEOI2016/TJOI2016]排序' post for Simple Texture theme."
 categories: [uncategorized]
 tags: [random, jekyll]
 redirect_from:
-  - /2018/03/16/
+  - /2018/03/31/
 ---
 首先，这道题只有一组查询，所以可以二分这个数的排名
 
